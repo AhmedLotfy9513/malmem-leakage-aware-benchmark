@@ -1,0 +1,18 @@
+Check,Passed,Actual,Expected
+Manifest files exist,True,0,0
+Manifest hashes match,True,0,0
+Manifest sizes match,True,0,0
+Total dataset rows,True,58596,58596
+Development rows,True,46888,46888
+Locked test rows,True,11708,11708
+Unique groups,True,58027,58027
+Development/Locked_Test group overlap,True,0,0
+Missing labels,True,0,0
+Duplicate dataset row indices,True,0,0
+Unknown split values,True,[],[]
+Audit row count matches,True,58596,58596
+Audit unique groups match,True,58027,58027
+Binary label conflicts,True,0,0
+Four-class category conflicts,True,9,9
+Sixteen-class family conflicts,True,19,19
+No suspicious raw feature matrix,True,0,0

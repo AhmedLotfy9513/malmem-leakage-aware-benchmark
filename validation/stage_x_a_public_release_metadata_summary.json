@@ -1,0 +1,25 @@
+{
+    "stage": "X-A",
+    "status": "PASS",
+    "version": "0.1.0",
+    "generated_metadata_files": [
+        "VERSION",
+        "CITATION.cff",
+        "docs\\THIRD_PARTY_DATA.md",
+        "docs\\DATA_AVAILABILITY.md",
+        "docs\\CLAIMS_AND_LIMITATIONS.md",
+        "docs\\BENCHMARK_PROTOCOL.md",
+        "docs\\REPRODUCIBILITY.md",
+        "CHANGELOG.md",
+        "metadata\\public_release_metadata.json"
+    ],
+    "manifest_entries": 45,
+    "original_dataset": "CIC-MalMem-2022",
+    "original_dataset_redistribution_policy": "Official CIC dataset portal permits redistribution, republication, and mirroring with citation to the dataset and associated research paper.",
+    "raw_dataset_inclusion_required": false,
+    "new_dataset_claim": false,
+    "github_status": "pending",
+    "kaggle_status": "pending",
+    "zenodo_status": "pending",
+    "doi_status": "pending"
+}

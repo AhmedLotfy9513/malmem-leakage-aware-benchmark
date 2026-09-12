@@ -1,0 +1,28 @@
+{
+    "stage": "VIII-B-v2",
+    "experiment": "Feature-Level Evidence-Aware MITRE ATT&CK Alignment",
+    "reasoning_chain": [
+        "memory_feature",
+        "forensic_observation",
+        "behavioral_hypothesis",
+        "optional_attack_candidate",
+        "evidence_level",
+        "analyst_validation"
+    ],
+    "guardrails": {
+        "direct_attack_detection": false,
+        "causal_claim": false,
+        "attack_ground_truth": false,
+        "source_level_auto_mapping": false,
+        "feature_level_review": true,
+        "analyst_validation_required": true
+    },
+    "candidate_techniques": {
+        "T1055": "Process Injection",
+        "T1620": "Reflective Code Loading",
+        "T1014": "Rootkit"
+    },
+    "intentionally_not_generated_from_aggregate_features": {
+        "T1543.003": "Windows Service candidate not generated from svcscan aggregate counts because creation/modification evidence is absent."
+    }
+}

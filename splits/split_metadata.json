@@ -1,0 +1,13 @@
+{
+    "source_file": "MalMem_LockedSplit.csv",
+    "row_count": 58596,
+    "split_counts": {
+        "Development": 46888,
+        "Locked_Test": 11708
+    },
+    "unique_groups": 58027,
+    "development_group_count": 46422,
+    "locked_test_group_count": 11605,
+    "development_locked_test_group_overlap": 0,
+    "group_leakage_detected": false
+}

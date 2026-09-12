@@ -1,0 +1,20 @@
+{
+    "stage": "IX-C",
+    "build_time_utc": "2026-09-12T13:16:28.743933+00:00",
+    "release_directory": "D:\\lotfy\\XPE_Memory_Project\\release_package_v2",
+    "newly_copied_artifacts": [
+        "xai\\counterfactual\\counterfactual_summary.csv",
+        "xai\\stability\\explanation_stability.csv",
+        "xai\\stability\\paper_stability_curve.csv",
+        "xai\\stability\\family_level_stability.csv",
+        "xai\\stability\\multiscale_stability_sample_level.csv"
+    ],
+    "missing_required": [],
+    "missing_optional": [],
+    "expected_component_count": 14,
+    "present_component_count": 14,
+    "all_required_components_present": true,
+    "manifest_entry_count_after_update": 36,
+    "public_release_permission_verified": false,
+    "technical_completeness_status": "PASS"
+}

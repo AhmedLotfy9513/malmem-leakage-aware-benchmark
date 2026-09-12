@@ -1,0 +1,14 @@
+{
+    "locked_split_file": {
+        "filename": "MalMem_LockedSplit.csv",
+        "size_bytes": 22063515,
+        "sha256": "726a99160a8599489108cf146fe8a477f84fcb806c8b7abfb1bbe82bf071ac2f"
+    },
+    "audited_file": {
+        "filename": "MalMem_Audited.csv",
+        "size_bytes": 21360357,
+        "sha256": "7ad97751a05089fdcc1d5769e1f0be503126b873bd705e0d4f5512cb060143b6"
+    },
+    "redistribution_permission_asserted": false,
+    "purpose": "Local source-data identity verification for reproducibility; source feature matrices are not included in this release package."
+}

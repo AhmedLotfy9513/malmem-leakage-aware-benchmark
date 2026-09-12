@@ -1,0 +1,25 @@
+{
+    "stage": "IX-B",
+    "release_status": "PASS",
+    "all_checks_passed": true,
+    "manifest_entry_count": 45,
+    "missing_manifest_files": [],
+    "hash_mismatches": [],
+    "size_mismatches": [],
+    "split_statistics": {
+        "total_rows": 58596,
+        "development_rows": 46888,
+        "locked_test_rows": 11708,
+        "unique_groups": 58027,
+        "group_overlap": 0
+    },
+    "audit_statistics": {
+        "row_count": 58596,
+        "unique_group_count": 58027,
+        "conflicting_binary_groups": 0,
+        "conflicting_category_groups": 9,
+        "conflicting_family_groups": 19
+    },
+    "suspicious_raw_feature_csv_count": 0,
+    "publication_note": "Technical reproducibility validation only. Legal/licensing permission for public redistribution must be verified separately."
+}

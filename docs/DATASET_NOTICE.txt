@@ -1,0 +1,17 @@
+DATASET REDISTRIBUTION NOTICE
+=============================
+
+This reproducibility package is derived from CIC-MalMem-2022.
+
+The package must not be described as a newly collected malware dataset
+unless new raw memory acquisitions are independently collected.
+
+Before public release, the redistribution terms and licensing conditions
+of the original CIC-MalMem-2022 dataset must be independently verified
+from the authoritative dataset source.
+
+ATT&CK alignment in this package represents evidence-aware behavioral
+hypotheses and does not constitute confirmed ATT&CK technique detection.
+
+SHAP attribution describes model behavior and must not be interpreted
+as causal forensic proof.

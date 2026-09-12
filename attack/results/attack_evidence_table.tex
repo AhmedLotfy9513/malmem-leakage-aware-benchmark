@@ -1,0 +1,16 @@
+\begin{table*}[t]
+\centering
+\caption{Evidence-aware ATT\&CK alignment derived from local SHAP attribution. Candidate support denotes attribution associated with reviewed forensic evidence and must not be interpreted as confirmed ATT\&CK technique detection.}
+\label{tab:attack_evidence_alignment}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llcccccccc}
+\hline
+ATT\&CK & Candidate & Evidence & Features & Malware (\%) & Benign (\%) & Med. Malware & Med. Benign & $r_{rb}$ & Holm-$p$ \\
+\hline
+T1055 & Process Injection & HIGH_CANDIDATE & 2 & 41.01 & 0.00 & 0.0000 & 0.0000 & 0.410 & 4.93e-18 \\
+T1620 & Reflective Code Loading & MEDIUM_CANDIDATE & 6 & 93.87 & 45.60 & 0.1492 & 0.0000 & 0.803 & 1.09e-50 \\
+T1014 & Rootkit & MEDIUM_CANDIDATE & 14 & 37.87 & 7.20 & 0.0000 & 0.0000 & 0.334 & 6.44e-13 \\
+\hline
+\end{tabular}%
+}
+\end{table*}

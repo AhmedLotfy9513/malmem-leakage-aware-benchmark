@@ -1,0 +1,42 @@
+{
+  "package_title": "CIC-MalMem-2022 Enriched Leakage-Audited Reproducibility Benchmark",
+  "version": "0.1.0",
+  "author": "Ahmed Ibrahim Lotfy Abdo Ibrahim",
+  "affiliation": "Department of Computer Science, Military Technical College, Cairo, Egypt",
+  "package_type": "enriched leakage-audited reproducibility benchmark derived from CIC-MalMem-2022",
+  "original_dataset": {
+    "name": "CIC-MalMem-2022",
+    "provider": "Canadian Institute for Cybersecurity, University of New Brunswick",
+    "official_url": "https://www.unb.ca/cic/datasets/malmem-2022.html",
+    "policy_url": "https://www.unb.ca/cic/datasets/",
+    "redistribution_policy_verified": true,
+    "citation_required": true
+  },
+  "original_paper": {
+    "title": "Detecting Obfuscated Malware using Memory Feature Engineering",
+    "authors": "Tristan Carrier; Princy Victor; Ali Tekeoglu; Arash Habibi Lashkari",
+    "venue": "8th International Conference on Information Systems Security and Privacy (ICISSP)",
+    "year": 2022
+  },
+  "research_package_claims": {
+    "new_dataset_claim": false,
+    "original_dataset_ownership_claim": false,
+    "attack_ground_truth_claim": false,
+    "shap_causality_claim": false,
+    "technical_reproducibility_validated": true
+  },
+  "repository_status": {
+    "github": "pending",
+    "kaggle": "pending",
+    "zenodo": "pending",
+    "doi": "pending"
+  },
+  "metadata_generated_utc": "2026-09-12T13:19:59.460406+00:00",
+  "package_version": "0.1.0",
+  "software_license": "Apache-2.0",
+  "software_license_selected": true,
+  "third_party_dataset_relicensed": false,
+  "original_dataset_ownership_claimed": false,
+  "github_upload_performed": false,
+  "release_finalization_date": "2026-09-12"
+}

@@ -1,0 +1,21 @@
+{
+    "source_file": "MalMem_Audited.csv",
+    "row_count": 58596,
+    "column_count": 60,
+    "numeric_feature_count": 55,
+    "missing_value_count": 0,
+    "unique_group_count": 58027,
+    "duplicate_group_count": 517,
+    "duplicate_rows_keep_false": 1019,
+    "feature_duplicate_rows_keep_false": 1086,
+    "note": "This summary is derived from the audited dataset. The full feature matrix is intentionally not included in the public reproducibility package.",
+    "conflicting_binary_groups": 0,
+    "conflicting_category_groups": 9,
+    "conflicting_family_groups": 19,
+    "label_semantics": {
+        "binary": "Class",
+        "category_4class": "Malware_Category",
+        "family_16class": "Family",
+        "raw_category_column": "Category contains the original sample/dump identifier and is not used as a classification target."
+    }
+}

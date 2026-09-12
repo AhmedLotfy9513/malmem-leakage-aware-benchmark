@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility benchmark, please cite both this package and the original CIC-MalMem-2022 dataset/paper."
+title: "CIC-MalMem-2022 Enriched Leakage-Audited Reproducibility Benchmark"
+version: "0.1.0"
+type: dataset
+authors:
+  - family-names: "Ibrahim"
+    given-names: "Ahmed Ibrahim Lotfy Abdo"
+affiliation: "Department of Computer Science, Military Technical College, Cairo, Egypt"
+date-released: "2026-09-12"
+repository-code: "TO_BE_ASSIGNED"
+url: "TO_BE_ASSIGNED"
+abstract: >
+  An enriched, leakage-audited, explainability- and ATT&CK-aligned
+  reproducibility benchmark derived from CIC-MalMem-2022. The package
+  includes leakage-aware split manifests, benchmark protocols,
+  explainability artifacts, counterfactual and stability analyses,
+  evidence-aware MITRE ATT&CK alignment artifacts, statistical summaries,
+  and machine-verifiable integrity checks.
+keywords:
+  - malware
+  - memory forensics
+  - CIC-MalMem-2022
+  - machine learning
+  - explainable AI
+  - SHAP
+  - counterfactual explanations
+  - MITRE ATT&CK
+  - reproducibility
+
+preferred-citation:
+  type: article
+  title: "TO_BE_REPLACED_WITH_FINAL_MANUSCRIPT_TITLE"
+  authors:
+    - family-names: "Ibrahim"
+      given-names: "Ahmed Ibrahim Lotfy Abdo"
+  year: 2026

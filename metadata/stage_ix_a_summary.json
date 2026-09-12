@@ -1,0 +1,18 @@
+{
+    "stage": "IX-A",
+    "package_name": "CIC-MalMem-2022-Enriched-Reproducibility-Benchmark",
+    "release_directory": "D:\\lotfy\\XPE_Memory_Project\\release_package_v2",
+    "copied_artifact_count": 29,
+    "missing_required_count": 0,
+    "missing_optional_count": 3,
+    "missing_required": [],
+    "missing_optional": [
+        "D:\\lotfy\\XPE_Memory_Project\\outputs\\xai_stability\\xai_stability_summary.csv",
+        "D:\\lotfy\\XPE_Memory_Project\\outputs\\xai_counterfactual\\counterfactual_summary.csv",
+        "D:\\lotfy\\XPE_Memory_Project\\README_EXECUTION.md"
+    ],
+    "original_dataset_redistribution_verified": false,
+    "new_dataset_claim": false,
+    "attack_detection_claim": false,
+    "causal_shap_claim": false
+}
