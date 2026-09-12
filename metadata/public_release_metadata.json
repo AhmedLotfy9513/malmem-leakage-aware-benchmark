@@ -1,6 +1,6 @@
 {
   "package_title": "CIC-MalMem-2022 Enriched Leakage-Audited Reproducibility Benchmark",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Ahmed Ibrahim Lotfy Abdo Ibrahim",
   "affiliation": "Department of Computer Science, Military Technical College, Cairo, Egypt",
   "package_type": "enriched leakage-audited reproducibility benchmark derived from CIC-MalMem-2022",
@@ -25,14 +25,14 @@
     "shap_causality_claim": false,
     "technical_reproducibility_validated": true
   },
-  "repository_status": {
-    "github": "pending",
-    "kaggle": "pending",
-    "zenodo": "pending",
-    "doi": "pending"
-  },
+ "repository_status": {
+  "github": "published",
+  "kaggle": "pending",
+  "zenodo": "published",
+  "doi": "10.5281/zenodo.22726638"
+},
   "metadata_generated_utc": "2026-09-12T13:19:59.460406+00:00",
-  "package_version": "0.1.1",
+  "package_version": "0.1.2",
   "software_license": "Apache-2.0",
   "software_license_selected": true,
   "third_party_dataset_relicensed": false,
@@ -40,6 +40,9 @@
   "github_upload_performed": true,
   "release_finalization_date": "2026-09-12",
   "zenodo_integration_enabled": true,
-  "zenodo_doi": "PENDING",
-  "github_release_tag": "v0.1.1"
+  "zenodo_doi": "10.5281/zenodo.22726638",
+  "github_release_tag": "v0.1.2",
+  "zenodo_doi_url": "https://doi.org/10.5281/zenodo.22726638",
+  "github_repository": "https://github.com/AhmedLotfy9513/malmem-leakage-aware-benchmark",
+  "doi_metadata_finalized": true
 }

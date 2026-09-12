@@ -1,15 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this reproducibility benchmark, please cite both this package and the original CIC-MalMem-2022 dataset/paper."
 title: "CIC-MalMem-2022 Enriched Leakage-Audited Reproducibility Benchmark"
-version: "0.1.0"
+version: "0.1.2"
 type: dataset
 authors:
   - family-names: "Ibrahim"
     given-names: "Ahmed Ibrahim Lotfy Abdo"
-affiliation: "Department of Computer Science, Military Technical College, Cairo, Egypt"
+    affiliation: "Department of Computer Science, Military Technical College, Cairo, Egypt"
+
 date-released: "2026-09-12"
-repository-code: "TO_BE_ASSIGNED"
-url: "TO_BE_ASSIGNED"
+repository-code: "https://github.com/AhmedLotfy9513/malmem-leakage-aware-benchmark"
+url: "https://doi.org/10.5281/zenodo.22726638"
 abstract: >
   An enriched, leakage-audited, explainability- and ATT&CK-aligned
   reproducibility benchmark derived from CIC-MalMem-2022. The package
@@ -28,10 +29,4 @@ keywords:
   - MITRE ATT&CK
   - reproducibility
 
-preferred-citation:
-  type: article
-  title: "TO_BE_REPLACED_WITH_FINAL_MANUSCRIPT_TITLE"
-  authors:
-    - family-names: "Ibrahim"
-      given-names: "Ahmed Ibrahim Lotfy Abdo"
-  year: 2026
+doi: "10.5281/zenodo.22726638"

@@ -1,5 +1,7 @@
 # Leakage-Aware Memory Malware Analysis Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22726638.svg)](https://doi.org/10.5281/zenodo.22726638)
+
 ## Overview
 
 This repository provides an enriched, leakage-audited,
@@ -125,3 +127,14 @@ original CIC attribution and citation requirements.
 
 See `LICENSE`, `LICENSE_NOTICE.md`, and
 `docs/THIRD_PARTY_DATA.md` for details.
+
+## Archival DOI
+
+A citable archival snapshot of this reproducibility benchmark is
+available through Zenodo.
+
+**DOI:** 10.5281/zenodo.22726638
+
+The DOI corresponds to the Zenodo-archived release generated from
+the GitHub repository. Version-specific release information is
+documented in `CHANGELOG.md`.

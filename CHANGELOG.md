@@ -1,3 +1,18 @@
+## [0.1.2] - 2026-09-12
+
+### DOI metadata finalization
+
+- Added the Zenodo DOI assigned to the archived v0.1.1 release:
+  `10.5281/zenodo.22726638`.
+- Added the archival DOI and DOI badge to repository metadata and
+  documentation.
+- Updated `CITATION.cff` with the public repository and archival
+  citation information.
+- No benchmark results, model outputs, leakage-audited split
+  definitions, or ATT&CK-alignment results were changed.
+- No original CIC-MalMem-2022 feature matrix, malware binaries, or
+  raw memory dumps were added.
+
 ## [0.1.1] - 2026-09-12
 
 ### Release and archival preparation
